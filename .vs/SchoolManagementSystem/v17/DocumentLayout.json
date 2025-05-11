@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\GitHub\\Proyecto_SistemaColegio\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392863DC-C8B7-4385-9C21-3398DBAB34D4}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\marlo\\onedrive\\documentos\\github\\proyecto_sistemacolegio\\schoolmanagementsystem\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{392863DC-C8B7-4385-9C21-3398DBAB34D4}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392863DC-C8B7-4385-9C21-3398DBAB34D4}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\marlo\\onedrive\\documentos\\github\\proyecto_sistemacolegio\\schoolmanagementsystem\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392863DC-C8B7-4385-9C21-3398DBAB34D4}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Documentos\\GitHub\\Proyecto_SistemaColegio\\SchoolManagementSystem\\Views\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Views\\Teachers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Documentos\\GitHub\\Proyecto_SistemaColegio\\SchoolManagementSystem\\Views\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementSystem\\Views\\Teachers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T19:52:48.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Documentos\\GitHub\\Proyecto_SistemaColegio\\SchoolManagementSystem\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Data\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Documentos\\GitHub\\Proyecto_SistemaColegio\\SchoolManagementSystem\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\Data\\SchoolDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:49:45.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

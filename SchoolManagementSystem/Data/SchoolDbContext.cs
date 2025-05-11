@@ -4,7 +4,7 @@ using SchoolManagementSystem.Data.Entities;
 
 public class SchoolDbContext : IdentityDbContext<User>
 {
-    public DbSet<User> Users { get; set; }
+    public DbSet<User> Users { get; set; } 
     public DbSet<Course> Courses { get; set; }
     public DbSet<Student> Students { get; set; }
     public DbSet<Subject> Subjects { get; set; }
