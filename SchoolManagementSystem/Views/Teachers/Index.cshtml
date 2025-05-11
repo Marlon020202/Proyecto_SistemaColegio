@@ -3,7 +3,6 @@
     ViewBag.PageTitle = "Teachers";
     ViewBag.SubPageTitle = "Index";
 }
-
 @using Newtonsoft.Json
 @model IEnumerable<SchoolManagementSystem.Data.Entities.Teacher>
 
@@ -13,7 +12,7 @@
     // Define as configurações do JSON para evitar referência circular
     var jsonSerializerSettings = new JsonSerializerSettings
             {
-                ReferenceLoopHandling = ReferenceLoopHandling.Ignore,
+                ReferenceLoopHandling = ReferenceLoopHandling.Ignore, //CAMBIO DE MARLON
                 Formatting = Formatting.Indented // Formatação mais legível para debug
             };
 
