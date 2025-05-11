@@ -12460,24 +12460,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luis_\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\marlo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luis_\\Documents\\GitHub\\Sistema_Colegio\\Proyecto_SistemaColegio\\SchoolManagementSystem\\SchoolManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\marlo\\OneDrive\\Documentos\\GitHub\\Proyecto_SistemaColegio\\SchoolManagementSystem\\SchoolManagementSystem.csproj",
       "projectName": "SchoolManagementSystem",
-      "projectPath": "C:\\Users\\luis_\\Documents\\GitHub\\Sistema_Colegio\\Proyecto_SistemaColegio\\SchoolManagementSystem\\SchoolManagementSystem.csproj",
-      "packagesPath": "C:\\Users\\luis_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luis_\\Documents\\GitHub\\Sistema_Colegio\\Proyecto_SistemaColegio\\SchoolManagementSystem\\obj\\",
+      "projectPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\GitHub\\Proyecto_SistemaColegio\\SchoolManagementSystem\\SchoolManagementSystem.csproj",
+      "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\GitHub\\Proyecto_SistemaColegio\\SchoolManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\luis_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12485,7 +12480,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -12503,8 +12497,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -12576,7 +12569,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
